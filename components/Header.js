@@ -4,8 +4,6 @@ const linkStyle = {
   marginRight: 15
 }
 
-consol.log('wow!');
-
 const Header = () => (
     <div>
         <Link href="/">
